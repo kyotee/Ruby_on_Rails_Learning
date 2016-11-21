@@ -20,7 +20,7 @@ Main emphasis: testing and validation
 
 Progress: Chapter 1  [X]
           Chapter 2  [X]
-          Chapter 3  [ ]
+          Chapter 3  [X]
           Chapter 4  [ ]
           Chapter 5  [ ]
           Chapter 6  [ ]
