@@ -21,7 +21,7 @@ Main emphasis: testing and validation
 Progress: Chapter 1  [X]
           Chapter 2  [X]
           Chapter 3  [X]
-          Chapter 4  [ ]      90% done chapter; documentation via .txt
+          Chapter 4  [X]
           Chapter 5  [ ]
           Chapter 6  [ ]
           Chapter 7  [ ]
