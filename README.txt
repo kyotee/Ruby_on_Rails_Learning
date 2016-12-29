@@ -28,6 +28,6 @@ Progress: Chapter 1  [X]
           Chapter 8  [X]   // In new addition split into two small chapters [X] [X]
           Chapter 9  [X]
           Chapter 10 [X]   // In new addition split into two small chapters [X] [X]
-          Chapter 11 [ ]
+          Chapter 11 [X]
           Chapter 12 [ ]
         
