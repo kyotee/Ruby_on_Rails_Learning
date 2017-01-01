@@ -1,0 +1,15 @@
+one:
+  follower: michael
+  followed: archer
+
+two:
+  follower: michael
+  followed: archer
+
+three:
+  follower: archer
+  followed: michael
+
+four:
+  follower: archer
+  followed: michael
